@@ -1,0 +1,9 @@
+{
+	"php": {
+		"TestModule": "Test Module",
+		"SINGLE_TestModule": "Test Module",
+		"LBL_CUSTOM_INFORMATION": "Custom Information",
+		"LBL_BASIC_INFORMATION": "Basic Information",
+		"Monday item id": "Monday item id"
+	}
+}
